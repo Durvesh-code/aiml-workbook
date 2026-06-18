@@ -1,0 +1,94 @@
+# ==========================================
+# 1. Course & Personal Exclusions
+# ==========================================
+# Specific Folders (Case-insensitive matching included)
+Assignment/
+assignment/
+mam_code/
+img_align_celeba/
+img/
+Training_file/
+Data/
+data/
+Project/
+project/
+
+# Specific Document Files
+Reinforcement_Learning_slides.pdf
+flappy_bird_slides.pdf
+
+# Extension Wildcards (Blocks all large datasets and slide decks)
+*.csv
+*.pdf
+
+# ==========================================
+# 2. ML & Deep Learning Artifacts
+# ==========================================
+# Large Datasets & Media archives
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.h5
+*.pickle
+*.pkl
+*.npy
+*.npz
+*.parquet
+*.jsonl
+
+# Model Weights, Framework Checkpoints & Neural Nets
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.pb
+*.tflite
+checkpoint/
+checkpoints/
+weights/
+models/
+
+# ==========================================
+# 3. Generative AI & Agentic AI Frameworks
+# ==========================================
+# Vector Databases & Local Embeddings storage
+stored_embeddings/
+vector_db/
+chroma_db/
+faiss_index/
+.chroma/
+
+# Agent Execution Logs & Traces
+logs/
+*.log
+agent_runtime.json
+
+# Security & Credentials (Crucial to prevent leaking GenAI API keys)
+.env
+.env.local
+.env.*
+secrets.json
+credentials.json
+*api_key*
+*token*
+
+# ==========================================
+# 4. Environment & Tooling Defaults
+# ==========================================
+# Python Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+__pycache__/
+*.pyc
+
+# Notebook Artifacts & IDE Configs
+.ipynb_checkpoints
+.vscode/
+.idea/
+.DS_Store
