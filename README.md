@@ -5,9 +5,13 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)]()
 
-A comprehensive engineering repository containing practical code implementations, mathematical scratch-building, and structured notes from a **100+ hour, 61-module AI/ML curriculum**. 
+> ### 📊 The Journey by the Numbers
+> * 🗓️ **6+ Months** of consistent, disciplined learning and building.
+> * 📺 **100+ Hours** of advanced architectural lectures and mathematical theory.
+> * 💻 **200+ Hours** of hands-on coding, model training, and rigorous debugging.
+> * 📂 **61 Modules** completed end-to-end.
 
-This repository serves as a personal vault and continuous learning log, moving from fundamental data processing to advanced **Generative AI** and **Agentic Systems**.
+A comprehensive engineering repository containing practical code implementations, mathematical scratch-building, and structured notes. This repository serves as a personal vault and continuous learning log, moving from fundamental data processing to advanced **Generative AI** and **Agentic Systems**.
 
 ---
 
@@ -59,4 +63,3 @@ Included within the modules are several end-to-end projects demonstrating applie
 - **Text Summarizer API:** Full-stack Flask application utilizing generative models.
 
 ---
-
