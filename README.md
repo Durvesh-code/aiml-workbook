@@ -11,16 +11,12 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 
 **Deep Learning & Reinforcement Learning** [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]()
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)]()
 
 **Generative AI & APIs** [![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)]()
 [![Groq API](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge)]()
 [![Agentic AI](https://img.shields.io/badge/Agentic_AI-0A0A0A?style=for-the-badge)]()
 
 **Full-Stack Deployment** [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
-[![HTML5 / CSS3](https://img.shields.io/badge/HTML5_/_CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 
 > ### 📊 The Journey by the Numbers
 > * 🗓️ **6+ Months** of consistent, disciplined learning and building.
