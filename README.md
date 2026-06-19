@@ -39,41 +39,29 @@ A comprehensive engineering repository containing practical code implementations
 
 ---
 
-## 🏗️ Core Architecture & Curriculum
+## 🏗️ What's Inside
+1. Python & Data Fundamentals
+Python basics, OOP, NumPy arrays, Pandas dataframes, web scraping (BeautifulSoup), and data visualization with Matplotlib/Seaborn.
 
-The repository is structured into progressive engineering phases:
+2. Machine Learning
+Supervised learning: Linear/Logistic/Lasso Regression, Naive Bayes, KNN, Decision Trees, SVM, Random Forest
+Ensembles: AdaBoost, Gradient Boosting, XGBoost, Stacking, Voting, AutoML
+Unsupervised learning: K-Means, DBSCAN, Hierarchical Clustering, Isolation Forest, PCA
+From scratch: KNN, Linear Regression, and Logistic Regression implemented without ML libraries, to understand the underlying math
+3. Deep Learning
+Perceptrons, ANNs (classification + regression), CNNs (image classification on CIFAR-10), RNNs (sentiment analysis), and a Vanilla GAN trained on the CelebA face dataset for face generation.
 
-### 1. Data Engineering & Analytics
-* **Fundamentals:** Python OOP, logical structures.
-* **Data Manipulation:** NumPy matrices, Pandas dataframes.
-* **Data Collection:** Web scraping and automated data pipelines.
-* **Visualization:** Matplotlib and Seaborn statistical graphing.
+4. Reinforcement Learning
+Q-Learning and SARSA from scratch, plus a DQN agent (with experience replay) trained to play Flappy Bird using flappy_bird_gymnasium.
 
-### 2. Machine Learning Systems
-* **Scratch Implementations:** Custom-built KNN, Linear Regression, and Logistic Regression without frameworks to understand underlying mathematics.
-* **Supervised Learning:** Lasso/Ridge Regression, Naive Bayes, Decision Trees, SVM, Random Forest.
-* **Advanced Ensembles (AutoML):** AdaBoost, Gradient Boosting, XGBoost, Stacking, and Voting.
-* **Unsupervised Learning:** K-Means, DBSCAN, Hierarchical Clustering, Isolation Forests, PCA.
-
-### 3. Deep Learning & Neural Networks
-* **Foundations:** Perceptrons and Artificial Neural Networks (ANN) for Classification/Regression.
-* **Computer Vision:** Convolutional Neural Networks (CNN) applied to CIFAR-10.
-* **NLP:** Recurrent Neural Networks (RNN) for Sentiment Analysis.
-* **Generative Models:** Vanilla GANs (Generative Adversarial Networks).
-
-### 4. Reinforcement Learning
-* **Algorithms:** Q-Learning and SARSA implementations.
-* **Deep Q-Networks (DQN):** Custom experience replay memory and autonomous agent training.
-
-### 5. Generative AI & Agentic Frameworks
-* **RAG Pipelines:** Retrieval-Augmented Generation integrations.
-* **LLM Integration:** OpenAI API connections and prompt engineering.
-* **Agentic AI:** Multi-agent architectures including specialized finance agents, YouTube analyzers, shared memory systems, and UI integration.
-
-### 6. Full-Stack AI Deployment
-* **Web Frameworks:** Flask routing and frontend integration (HTML/CSS/JS).
-* **Deployed Systems:** Personal AI Assistant and Text Summarization web apps.
-
+5. Generative AI & Agentic Systems
+A RAG pipeline built with LangChain (PDF/text loaders, recursive chunking), Sentence-Transformers embeddings, and ChromaDB as the vector store, queried through OpenAI/Groq LLMs
+OpenAI API integration and prompt engineering
+Multi-agent systems using Agno: a travel-planning agent, a finance agent (live stock data via yfinance), a multi-language translation team (3 agents responding in English/Hindi/Chinese), a YouTube video analyzer with a Streamlit UI, and an agent with persistent SQLite-backed memory
+6. Deployment
+Personal AI Assistant — Flask app wired to the OpenAI API for Q&A and email summarization
+Text Summarizer — FastAPI app serving a fine-tuned T5 model for dialogue summarization
+General Flask routing/templating practice (forms, login page, static assets)
 ---
 
 ## 🚀 Highlighted Projects
