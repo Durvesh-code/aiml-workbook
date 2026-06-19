@@ -40,28 +40,13 @@ A comprehensive engineering repository containing practical code implementations
 ---
 
 ## 🏗️ What's Inside
-1. Python & Data Fundamentals
-Python basics, OOP, NumPy arrays, Pandas dataframes, web scraping (BeautifulSoup), and data visualization with Matplotlib/Seaborn.
 
-2. Machine Learning
-Supervised learning: Linear/Logistic/Lasso Regression, Naive Bayes, KNN, Decision Trees, SVM, Random Forest
-Ensembles: AdaBoost, Gradient Boosting, XGBoost, Stacking, Voting, AutoML
-Unsupervised learning: K-Means, DBSCAN, Hierarchical Clustering, Isolation Forest, PCA
-From scratch: KNN, Linear Regression, and Logistic Regression implemented without ML libraries, to understand the underlying math
-3. Deep Learning
-Perceptrons, ANNs (classification + regression), CNNs (image classification on CIFAR-10), RNNs (sentiment analysis), and a Vanilla GAN trained on the CelebA face dataset for face generation.
-
-4. Reinforcement Learning
-Q-Learning and SARSA from scratch, plus a DQN agent (with experience replay) trained to play Flappy Bird using flappy_bird_gymnasium.
-
-5. Generative AI & Agentic Systems
-A RAG pipeline built with LangChain (PDF/text loaders, recursive chunking), Sentence-Transformers embeddings, and ChromaDB as the vector store, queried through OpenAI/Groq LLMs
-OpenAI API integration and prompt engineering
-Multi-agent systems using Agno: a travel-planning agent, a finance agent (live stock data via yfinance), a multi-language translation team (3 agents responding in English/Hindi/Chinese), a YouTube video analyzer with a Streamlit UI, and an agent with persistent SQLite-backed memory
-6. Deployment
-Personal AI Assistant — Flask app wired to the OpenAI API for Q&A and email summarization
-Text Summarizer — FastAPI app serving a fine-tuned T5 model for dialogue summarization
-General Flask routing/templating practice (forms, login page, static assets)
+1. **Python & Data Fundamentals:** Python basics, OOP, NumPy arrays, Pandas dataframes, web scraping (BeautifulSoup), and data visualization with Matplotlib/Seaborn.
+2. **Machine Learning:** Supervised learning (Linear/Logistic/Lasso Regression, Naive Bayes, KNN, Decision Trees, SVM, Random Forest), Ensembles (AdaBoost, Gradient Boosting, XGBoost, Stacking, Voting, AutoML), Unsupervised learning (K-Means, DBSCAN, Hierarchical Clustering, Isolation Forest, PCA), and Scratch Implementations (KNN, Linear Regression, and Logistic Regression implemented without ML libraries to understand the underlying math).
+3. **Deep Learning:** Perceptrons, ANNs (classification + regression), CNNs (image classification on CIFAR-10), RNNs (sentiment analysis), and a Vanilla GAN trained on the CelebA face dataset for face generation.
+4. **Reinforcement Learning:** Q-Learning and SARSA from scratch, plus a DQN agent (with experience replay) trained to play Flappy Bird using flappy_bird_gymnasium.
+5. **Generative AI & Agentic Systems:** A RAG pipeline built with LangChain (PDF/text loaders, recursive chunking), Sentence-Transformers embeddings, and ChromaDB as the vector store, queried through OpenAI/Groq LLMs; OpenAI API integration and prompt engineering; Multi-agent systems using Agno (travel-planning agent, finance agent with live stock data via yfinance, a multi-language translation team responding in English/Hindi/Chinese, a YouTube video analyzer with a Streamlit UI, and an agent with persistent SQLite-backed memory).
+6. **Deployment:** Personal AI Assistant (Flask app wired to the OpenAI API for Q&A and email summarization), Text Summarizer (FastAPI app serving a fine-tuned T5 model for dialogue summarization), and general Flask routing/templating practice (forms, login page, static assets).
 ---
 
 ## 🚀 Highlighted Projects
