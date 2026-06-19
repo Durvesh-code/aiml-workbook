@@ -30,7 +30,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)]()
 
 > ### 📊 The Journey by the Numbers
-> * 🗓️ **6+ Months** of consistent, disciplined learning and building.
+> * 🗓️ **7+ Months** of consistent, disciplined learning and building.
 > * 📺 **100+ Hours** of advanced architectural lectures and mathematical theory.
 > * 💻 **200+ Hours** of hands-on coding, model training, and rigorous debugging.
 > * 📂 **61 Modules** completed end-to-end.
