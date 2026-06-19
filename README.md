@@ -67,12 +67,15 @@ The repository is structured into progressive engineering phases:
 
 ## 🚀 Highlighted Projects
 
-Included within the modules are several end-to-end projects demonstrating applied engineering:
-
-- **CreditWise Loan Prediction:** Supervised learning system for financial risk assessment.
-- **SmartCart Clustering System:** Unsupervised behavioral segmentation for e-commerce.
-- **Employee Turnover Predictor:** Feature engineering and classification pipeline.
-- **Agentic Finance System:** Autonomous agents capable of financial data retrieval and reasoning.
-- **Text Summarizer API:** Full-stack Flask application utilizing generative models.
+| Project | What it does |
+|---|---|
+| **CreditWise Loan Prediction** | Supervised learning pipeline for loan risk classification — missing value imputation, EDA, encoding, model comparison |
+| **SmartCart Clustering System** | Unsupervised customer segmentation for e-commerce using clustering + outlier removal |
+| **Employee Turnover Predictor** | Feature engineering + classification pipeline to predict employee attrition |
+| **Flappy Bird DQN Agent** | Deep Q-Network with experience replay that learns to play Flappy Bird from scratch |
+| **RAG Pipeline** | Document ingestion → chunking → embedding → vector retrieval → LLM-grounded answers |
+| **Agentic AI Suite** | Multiple Agno-based agents — finance research, multi-language translation team, YouTube analyzer with persistent memory |
+| **Personal AI Assistant** | Deployed Flask + OpenAI API assistant for Q&A and email summarization |
+| **Text Summarizer** | FastAPI service running a fine-tuned T5 model for abstractive summarization |
 
 ---
